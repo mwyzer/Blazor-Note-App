@@ -1,0 +1,12 @@
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/obj/Debug/net5.0/SohatNotebook.Entities.csproj.AssemblyReference.cache
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/obj/Debug/net5.0/SohatNotebook.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/obj/Debug/net5.0/SohatNotebook.Entities.AssemblyInfoInputs.cache
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/obj/Debug/net5.0/SohatNotebook.Entities.AssemblyInfo.cs
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/obj/Debug/net5.0/SohatNotebook.Entities.csproj.CoreCompileInputs.cache
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/bin/Debug/net5.0/SohatNotebook.Entities.deps.json
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/bin/Debug/net5.0/SohatNotebook.Entities.dll
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/bin/Debug/net5.0/ref/SohatNotebook.Entities.dll
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/bin/Debug/net5.0/SohatNotebook.Entities.pdb
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/obj/Debug/net5.0/SohatNotebook.Entities.dll
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/obj/Debug/net5.0/ref/SohatNotebook.Entities.dll
+/Users/wyzer/Desktop/dev/Youtube/mohamadlawand087/Sohat/SohatNotebook.Entities/obj/Debug/net5.0/SohatNotebook.Entities.pdb
